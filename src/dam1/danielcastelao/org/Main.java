@@ -6,5 +6,8 @@ public class Main {
 	// write your code here
         // A
         // B
+        // lider 1
+        // lider 2
+        // lider 3
     }
 }
